@@ -1,0 +1,3 @@
+/home/flomaddic/sources/PPRG-CWICZENIA/cmake-build-debug/CMakeFiles/PPRG_CWICZENIA.dir
+/home/flomaddic/sources/PPRG-CWICZENIA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/flomaddic/sources/PPRG-CWICZENIA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
