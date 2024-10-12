@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int nonmain2() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
