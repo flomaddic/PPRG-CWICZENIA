@@ -3,13 +3,17 @@
 //
 
 
+#include "ZD_1-3.h"
+
 #include <iostream>
 using namespace std;
 
-int main4(int argc, char *argv[]) {
+//Zadanie: Napisz program, który sprawdzi, czy podana liczba całkowita jest parzysta, nieparzysta czy żadna (0)
+
+void ZD_1_3::solution() {
     int userinput;
     cout << "Type a number: ";
-    cin >>  userinput;
+    cin >> userinput;
     string message = "Your number is ";
     if (userinput == 0) {
         message += "neither even nor odd.\n";

@@ -3,14 +3,17 @@
 //
 
 
+#include "ZD_1-2.h"
+
 #include <iostream>
 using namespace std;
 
+// Napisz program, który sprawdzi, czy liczba całkowita jest dodatnia, ujemna czy może jest 0.
 
-int main3(int argc, char *argv[]) {
+void ZD_1_2::solution() {
     int userinput;
     cout << "Type a number: ";
-    cin >>  userinput;
+    cin >> userinput;
     string message = "Your number is ";
     if (userinput > 0) {
         message += "greater than zero.\n";
