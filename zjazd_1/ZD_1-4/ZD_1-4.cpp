@@ -13,7 +13,7 @@ using namespace std;
 //Zadanie: Napisz program do znajdowania największej liczby wśród trzech liczb, podanych przez użytkownika.
 
 void ZD_1_4::solutionA() {
-    std::array<int, 3> nums = getInput();
+    array<int, 3> nums = getInput();
     int a = nums.at(0);
     int b = nums.at(1);
     int c = nums.at(2);
@@ -33,8 +33,8 @@ void ZD_1_4::solutionB() {
     int max = INT_MIN;
     int current;
     for (int i = 0; i < 3; i++) {
-        std::cout << "Type number " << i + 1 << ":";
-        std::cin >> current;
+        cout << "Type number " << i + 1 << ":";
+        cin >> current;
         if (current > max) {
             max = current;
         }
@@ -51,12 +51,12 @@ void ZD_1_4::solutionC() {
 array<int, 3> ZD_1_4::getInput() {
     array<int, 3> nums{};
     for (int i = 0; i < 3; i++) {
-        std::cout << "Type number " << i + 1 << ":";
-        std::cin >> nums[i];
+        cout << "Type number " << i + 1 << ":";
+        cin >> nums[i];
     }
     return nums;
 }
 
 void ZD_1_4::printSolution(int max) {
-    std::cout << "The highest number is " << max << "." << std::endl;
+    cout << "The highest number is " << max << "." << endl;
 }

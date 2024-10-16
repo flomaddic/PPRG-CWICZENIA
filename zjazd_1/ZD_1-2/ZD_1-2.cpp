@@ -16,11 +16,11 @@ void ZD_1_2::solution() {
     cin >> userinput;
     string message = "Your number is ";
     if (userinput > 0) {
-        message += "greater than zero.\n";
+        message += "greater than zero.";
     } else if (userinput < 0) {
-        message += "less than zero.\n";
+        message += "less than zero.";
     } else {
-        message += "equal to zero.\n";
+        message += "equal to zero.";
     }
     cout << message << endl;
 }

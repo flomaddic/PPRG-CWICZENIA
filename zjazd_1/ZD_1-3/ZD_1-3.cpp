@@ -16,11 +16,11 @@ void ZD_1_3::solution() {
     cin >> userinput;
     string message = "Your number is ";
     if (userinput == 0) {
-        message += "neither even nor odd.\n";
+        message += "neither even nor odd.";
     } else if (userinput % 2 == 0) {
-        message += "even.\n";
+        message += "even.";
     } else if (userinput % 2 != 0) {
-        message += "odd.\n";
+        message += "odd.";
     }
     cout << message << endl;
 }
