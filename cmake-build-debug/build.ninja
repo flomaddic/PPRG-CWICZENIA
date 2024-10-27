@@ -85,6 +85,60 @@ build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-0/ZD_2.cpp.o: CXX_COMPILER__PPR
   OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
   OBJECT_FILE_DIR = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-0
 
+build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-1/ZD_2-1.cpp.o: CXX_COMPILER__PPRG_CWICZENIA_unscanned_Debug /home/flomaddic/sources/PPRG-CWICZENIA/zjazd_2/ZD_2-1/ZD_2-1.cpp || cmake_object_order_depends_target_PPRG_CWICZENIA
+  DEP_FILE = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-1/ZD_2-1.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
+  OBJECT_FILE_DIR = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-1
+
+build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2a.cpp.o: CXX_COMPILER__PPRG_CWICZENIA_unscanned_Debug /home/flomaddic/sources/PPRG-CWICZENIA/zjazd_2/ZD_2-2/ZD_2-2a.cpp || cmake_object_order_depends_target_PPRG_CWICZENIA
+  DEP_FILE = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2a.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
+  OBJECT_FILE_DIR = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2
+
+build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2b.cpp.o: CXX_COMPILER__PPRG_CWICZENIA_unscanned_Debug /home/flomaddic/sources/PPRG-CWICZENIA/zjazd_2/ZD_2-2/ZD_2-2b.cpp || cmake_object_order_depends_target_PPRG_CWICZENIA
+  DEP_FILE = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2b.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
+  OBJECT_FILE_DIR = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2
+
+build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2c.cpp.o: CXX_COMPILER__PPRG_CWICZENIA_unscanned_Debug /home/flomaddic/sources/PPRG-CWICZENIA/zjazd_2/ZD_2-2/ZD_2-2c.cpp || cmake_object_order_depends_target_PPRG_CWICZENIA
+  DEP_FILE = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2c.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
+  OBJECT_FILE_DIR = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2
+
+build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2d.cpp.o: CXX_COMPILER__PPRG_CWICZENIA_unscanned_Debug /home/flomaddic/sources/PPRG-CWICZENIA/zjazd_2/ZD_2-2/ZD_2-2d.cpp || cmake_object_order_depends_target_PPRG_CWICZENIA
+  DEP_FILE = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
+  OBJECT_FILE_DIR = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2
+
+build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2e.cpp.o: CXX_COMPILER__PPRG_CWICZENIA_unscanned_Debug /home/flomaddic/sources/PPRG-CWICZENIA/zjazd_2/ZD_2-2/ZD_2-2e.cpp || cmake_object_order_depends_target_PPRG_CWICZENIA
+  DEP_FILE = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
+  OBJECT_FILE_DIR = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2
+
+build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2f.cpp.o: CXX_COMPILER__PPRG_CWICZENIA_unscanned_Debug /home/flomaddic/sources/PPRG-CWICZENIA/zjazd_2/ZD_2-2/ZD_2-2f.cpp || cmake_object_order_depends_target_PPRG_CWICZENIA
+  DEP_FILE = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2f.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
+  OBJECT_FILE_DIR = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2
+
+build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2g.cpp.o: CXX_COMPILER__PPRG_CWICZENIA_unscanned_Debug /home/flomaddic/sources/PPRG-CWICZENIA/zjazd_2/ZD_2-2/ZD_2-2g.cpp || cmake_object_order_depends_target_PPRG_CWICZENIA
+  DEP_FILE = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2g.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
+  OBJECT_FILE_DIR = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2
+
+build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-3/ZD_2-3a.cpp.o: CXX_COMPILER__PPRG_CWICZENIA_unscanned_Debug /home/flomaddic/sources/PPRG-CWICZENIA/zjazd_2/ZD_2-3/ZD_2-3a.cpp || cmake_object_order_depends_target_PPRG_CWICZENIA
+  DEP_FILE = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-3/ZD_2-3a.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
+  OBJECT_FILE_DIR = CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-3
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target PPRG_CWICZENIA
@@ -93,7 +147,7 @@ build CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-0/ZD_2.cpp.o: CXX_COMPILER__PPR
 #############################################
 # Link the executable PPRG_CWICZENIA
 
-build PPRG_CWICZENIA: CXX_EXECUTABLE_LINKER__PPRG_CWICZENIA_Debug CMakeFiles/PPRG_CWICZENIA.dir/main.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_1/ZD_1-1/ZD_1-1.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_1/ZD_1-2/ZD_1-2.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_1/ZD_1-3/ZD_1-3.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_1/ZD_1-4/ZD_1-4.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-0/ZD_2.cpp.o
+build PPRG_CWICZENIA: CXX_EXECUTABLE_LINKER__PPRG_CWICZENIA_Debug CMakeFiles/PPRG_CWICZENIA.dir/main.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_1/ZD_1-1/ZD_1-1.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_1/ZD_1-2/ZD_1-2.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_1/ZD_1-3/ZD_1-3.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_1/ZD_1-4/ZD_1-4.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-0/ZD_2.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-1/ZD_2-1.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2a.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2b.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2c.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2d.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2e.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2f.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-2/ZD_2-2g.cpp.o CMakeFiles/PPRG_CWICZENIA.dir/zjazd_2/ZD_2-3/ZD_2-3a.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/PPRG_CWICZENIA.dir
   POST_BUILD = :
