@@ -4,19 +4,19 @@
 
 
 #include <cstdio>
+#include <iostream>
 using namespace std;
 
+int get_diamond_height() {
+    int num;
+    cout << "Podaj wysokość diamentu: " << endl;
+    cin >> num;
+    return num;
+}
 
 
-void drawDiamond(int h) {
-    int height;
-    if (h % 2 == 0) {
-        height = h + 2;
-    } else {
-        height = h;
-    }
-    //cala wysokosc
-    for (int i = 0; i < height/2 + height % 2; i++) {
+void draw_diamond(int height) {
+    for (int i = 0; i <= height/2; i++) {
         for (int j = 0; j < height; j++) {
             if (j > height/2 - i && j < height/2 + i) {
                 printf("*");
@@ -40,7 +40,7 @@ void drawDiamond(int h) {
 }
 
 int main() {
-    //todo: diamond's there, fix the height for odd numbers
-    drawDiamond(9);
+    int diamond_height = get_diamond_height();
+    draw_diamond(diamond_height);
     return 0;
 }
