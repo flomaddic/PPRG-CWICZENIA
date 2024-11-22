@@ -23,4 +23,9 @@ add_executable(PPRG_CWICZENIA main.cpp
         zjazd_2/ZD_2-2/ZD_2-2f.cpp
         zjazd_2/ZD_2-2/ZD_2-2g.cpp
         zjazd_2/ZD_2-3/ZD_2-3.cpp
-        zjazd_2/ZD_2-4/ZD_2-4.cpp)
+        zjazd_2/ZD_2-4/ZD_2-4.cpp
+        zjazd_3/ZD_3-1/ZD_3-1.cpp
+        zjazd_3/ZD_3-2/ZD_3-2.cpp
+        zjazd_3/ZD_3-3/ZD_3-3.cpp
+        zjazd_3/ZD_3-4/ZD_3-4.cpp
+)

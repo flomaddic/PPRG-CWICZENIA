@@ -39,8 +39,8 @@ void draw_diamond(int height) {
 
 }
 
-int main() {
-    int diamond_height = get_diamond_height();
-    draw_diamond(diamond_height);
-    return 0;
-}
+// int main() {
+//     int diamond_height = get_diamond_height();
+//     draw_diamond(diamond_height);
+//     return 0;
+// }
