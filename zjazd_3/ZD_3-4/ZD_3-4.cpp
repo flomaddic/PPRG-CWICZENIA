@@ -22,10 +22,10 @@ void draw_pascal_triangle() {
     }
 }
 
-int main() {
-    draw_pascal_triangle();
-    return 0;
-}
+// int main() {
+//     draw_pascal_triangle();
+//     return 0;
+// }
 
 
 
