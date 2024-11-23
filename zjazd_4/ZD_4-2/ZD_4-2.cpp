@@ -26,7 +26,7 @@ void comonArrElement() {
     }
 
     map<int, int>::iterator it = numToOccurrences.begin();
-    int maxOccurrence;
+    int maxOccurrence = it->second;
 
     // find max occurrence
     while (it != numToOccurrences.end()) {
