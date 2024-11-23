@@ -2,10 +2,11 @@
 // Created by flomaddic on 11/23/24.
 //
 
-#include <cstdlib>
-#include <stdlib.h>
 
 void fill10x10Array() {
+
+    //todo: is it that simple or misunderstood?
+
     int arr [10][10] = {{0}};
 
     for (int i = 0; i < 10; i++) {
