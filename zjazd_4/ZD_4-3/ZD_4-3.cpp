@@ -27,7 +27,7 @@ void fill10x10Array() {
     }
 }
 
-int main() {
-    fill10x10Array();
-    return 0;
-}
+// int main() {
+//     fill10x10Array();
+//     return 0;
+// }

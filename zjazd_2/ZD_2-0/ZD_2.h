@@ -23,9 +23,9 @@ class ZD_2 {
         return (pizzas * slicesPerPizza) / guests;
     }
 
-    int main() {
-
-    }
+    // int main() {
+    //
+    // }
 };
 
 

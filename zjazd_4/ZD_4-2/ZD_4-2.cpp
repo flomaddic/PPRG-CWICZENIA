@@ -56,8 +56,8 @@ void comonArrElement() {
     });
     cout << endl;
 }
-
-int main() {
-    comonArrElement();
-    return 0;
-}
+//
+// int main() {
+//     comonArrElement();
+//     return 0;
+// }
