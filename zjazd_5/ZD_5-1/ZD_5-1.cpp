@@ -34,21 +34,21 @@ void get_vector_max() {
     vector<int> idx_max = vector<int>();
     for (int i = 0; i < v.size(); i++) {
         if (v[i] == max) {
-            idx_max.push_back(i);
+            idx_max.push_back(i + 1);
         } else if (v[i] > max) {
             max = v[i];
-            idx_max = vector<int>(1, max);
+            idx_max = vector<int>(1, i + 1);
         }
     }
     cout << "The maximum element is " << max << endl;
-    cout << "This element is observed at indexes: ";
+    cout << "This element is observed at positions: ";
     for (int i = 0; i < idx_max.size(); i++) {
-        cout << idx_max[i] << " ";
+        cout << '#' << idx_max[i] << " ";
     }
     cout << endl;
 }
 
-int main() {
-    get_vector_max();
-    return 0;
-}
+// int main() {
+//     get_vector_max();
+//     return 0;
+// }
