@@ -23,7 +23,7 @@ int get_max() {
     return max;
 }
 
-int main() {
+int main_disbled() {
     int max = get_max();
     int count = 0;
     for (int i = 1; i <= max; i++) {
