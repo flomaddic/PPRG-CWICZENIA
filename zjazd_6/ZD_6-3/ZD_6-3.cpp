@@ -25,12 +25,12 @@ struct Student {
 };
 
 vector<Student> sort_students(vector<Student> students) {
-  ranges::sort(students, Student::compare);
+  std::sort(students.begin(), students.end(), Student::compare);
   return students;
 }
 
 void print_students(vector<Student> students) {
-  for (Student student : students) {
+  for (auto student : students) {
     cout << student.toString() << endl;
   }
 }
@@ -44,10 +44,7 @@ int main() {
   };
 
   cout << "unsorted students:" << endl;
-
-  for (Student student : students) {
-    cout << student.toString() << endl;
-  }
+  print_students(students);
 
   auto sorted_students = sort_students(students);
 
