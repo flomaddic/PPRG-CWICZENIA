@@ -44,12 +44,12 @@ void print_vector(vector<int>& v) {
     cout << endl;
 }
 
-int main() {
-    vector<int> v = build_vector();
-    cout << "Your input vector is:" << endl;
-    print_vector(v);
-    vector<int> v2 = transpose_vector(v);
-    cout << "The transposed vector is:" << endl;
-    print_vector(v2);
-    return 0;
-}
+// int main() {
+//     vector<int> v = build_vector();
+//     cout << "Your input vector is:" << endl;
+//     print_vector(v);
+//     vector<int> v2 = transpose_vector(v);
+//     cout << "The transposed vector is:" << endl;
+//     print_vector(v2);
+//     return 0;
+// }
