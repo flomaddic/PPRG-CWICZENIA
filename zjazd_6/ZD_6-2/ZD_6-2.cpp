@@ -85,7 +85,7 @@ void query_student(vector<Student>& students) {
   cout << score_line << endl;
 }
 
-int main() {
+int main_disabled() {
   vector<Student> students = {};
   for (int i = 1; i <= 1; i++) {
     students.push_back(getStudentData());
