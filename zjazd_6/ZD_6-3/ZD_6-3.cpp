@@ -35,7 +35,7 @@ void print_students(vector<Student> students) {
   }
 }
 
-int main() {
+int main_disablooed() {
   vector<Student> students = {
     {"Leo", "Kowal", 72165},
     {"Maciej", "Demp", 783},
