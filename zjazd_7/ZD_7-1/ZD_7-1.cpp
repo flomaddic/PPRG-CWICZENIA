@@ -45,6 +45,7 @@ int main() {
     cout << "People from the array: " << endl;
 
     for (int i = 0; i < 3; ++i) {
+        cout << "Person " << std::to_string((i + 1)) << ": ";
         for (int j = 0; j < 2; ++j) {
             cout << person_arr[i][j] << " ";
         }
