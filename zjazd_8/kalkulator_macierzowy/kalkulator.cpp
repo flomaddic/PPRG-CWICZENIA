@@ -16,15 +16,10 @@ enum calculation_operator {
     TRANS
 };
 
-
-struct Matrix {
-    vector<vector<int> > data;
-};
-
 struct calc_data {
     calculation_operator operation;
-    vector<vector<int> > a;
-    vector<vector<int> > b;
+    vector<vector<int>> a;
+    vector<vector<int>> b;
 };
 
 bool validate_operation(int op_idx_i) {
@@ -167,22 +162,22 @@ void run_calculation(calc_data user_input) {
     switch (user_input.operation) {
         case ADD:
             cout << "Wynik dodawania: " << endl;
-        print_matrix(add(user_input.a, user_input.b));
-        break;
+            print_matrix(add(user_input.a, user_input.b));
+            break;
         case SUB:
             cout << "Wynik odejmowania: " << endl;
-        print_matrix(sub(user_input.a, user_input.b));
-        break;
+            print_matrix(sub(user_input.a, user_input.b));
+            break;
         case MUL:
             cout << "Wynik mnożenia : " << endl;
-        print_matrix(mul(user_input.a, user_input.b));
-        break;
+            print_matrix(mul(user_input.a, user_input.b));
+            break;
         case TRANS:
             cout << "Wynik transpozycji A: " << endl;
-        print_matrix(trans(user_input.a));
-        cout << "Wynik transpozycji B: " << endl;
-        print_matrix(trans(user_input.b));
-        break;
+            print_matrix(trans(user_input.a));
+            cout << "Wynik transpozycji B: " << endl;
+            print_matrix(trans(user_input.b));
+            break;
     }
 }
 
